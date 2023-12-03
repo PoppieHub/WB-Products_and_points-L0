@@ -37,7 +37,7 @@ export const cartState = {
             count: 1,
             isSelected: true,
             isFavorite: false,
-            imageSource: '/src/assets/img/product-image-1.png',
+            imageSource: '../../assets/img/product-image-1.png',
         },
         {
             id: 2,
@@ -83,7 +83,7 @@ export const cartState = {
             count: 200,
             isSelected: true,
             isFavorite: false,
-            imageSource: '/src/assets/img/product-image-2.png',
+            imageSource: '../../assets/img/product-image-2.png',
         },
         {
             id: 3,
@@ -119,7 +119,7 @@ export const cartState = {
             count: 2,
             isSelected: true,
             isFavorite: false,
-            imageSource: '/src/assets/img/product-image-3.png',
+            imageSource: '../../assets/img/product-image-3.png',
         },
     ],
     selectedIds: [1, 2, 3],

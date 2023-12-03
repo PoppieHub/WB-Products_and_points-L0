@@ -1317,7 +1317,7 @@ input[type=number]{
 }
 
 .shipping-info__meta .shipping-info__rating::before {
-    content: url('/src/assets/img/star.svg');
+    content: url('../img/star.svg');
     position: absolute;
     top: 2px;
     left: -16px;
@@ -1926,7 +1926,7 @@ label.invalid input.shake ~ span{
 }
 
 .delivery-dialog__address-description .rating::before {
-    content: url('/src/assets/img/star.svg');
+    content: url('../img/star.svg');
     position: absolute;
     top: 2px;
     left: -16px;

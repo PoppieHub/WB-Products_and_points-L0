@@ -250,7 +250,7 @@ function updateShippingDate() {
                 `
                 <div class="shipping-info__product" data-id="${product.id}">
                     <a href="#">
-                        <img src="/src/assets/img/product-image-${product.id}.png" alt="Изображение">
+                        <img src="../../assets/img/product-image-${product.id}.png" alt="Изображение">
                         ${product.count > 1 ? `<div class="shipping-info__product-label item-label">${product.count}</div>` : ''}
                     </a>
                 </div>
