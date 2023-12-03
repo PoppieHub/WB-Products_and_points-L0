@@ -134,6 +134,6 @@ export const cartState = {
         id: 'card-1',
         cardNumber: '1234 56•• •••• 1234',
         cardExpiry: '01/30',
-        imageSource: '/src/assets/icons/mir.svg',
+        imageSource: '../../assets/img/mir.svg',
     }
 };
